@@ -1,0 +1,90 @@
+.wd-body-black {
+    background-color: black;
+}
+
+.wd-left-offset {
+    position: relative;
+    margin-left: 16px;
+    margin-right: 16px;
+    border-left: 1px solid #2f3336;
+    border-right: 1px solid #2f3336;
+}
+
+.wd-part-offset {
+    position: relative;
+    margin-left: 16px;
+}
+
+.wd-search-bar {
+    color: white;
+    background-color: darkgray;
+    border-radius: 10px;
+}
+
+.wd-setting-offset {
+    position: relative;
+    margin-right: 12px;
+}
+
+.wd-image-offset {
+    position: relative;
+    margin-right: 16px;
+    border-radius: 10px;
+}
+
+.wd-float-left {
+    float: left;
+}
+
+.wd-float-right {
+    float: right;
+}
+
+.wd-float-done {
+    clear: both;
+}
+
+.wd-foryou-link {
+    color: #1da1f2;
+    font-size: 15px;
+    padding-bottom: 7px;
+    margin: 16px 16px 16px 0;
+    text-decoration: none;
+    border-bottom: solid 4px #1da1f2;
+}
+
+.wd-other-link {
+    color: #6e767d;
+    font-size: 15px;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.wd-padding-bottom {
+    padding-bottom: 10px;
+}
+
+.wd-trend-topic {
+    color: #6e767d;
+    font-size: 13px;
+}
+
+.wd-trend-author {
+    color: white;
+    font-size: 13px;
+}
+
+.wd-trend-title {
+    color: white;
+    font-size: 15px;
+}
+
+.wd-block {
+    border-bottom: 1px solid #2f3336;
+    border-top: 1px solid #2f3336;
+}
+
+.wd-block-top-down-margin {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
