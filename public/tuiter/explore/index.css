@@ -1,56 +1,73 @@
-.wd-body-black {
-    background-color: black;
+.wd-navigation-fa-stack {
+    vertical-align: top;
+    font-size: 0.625em;
 }
 
-.wd-left-offset {
-    position: relative;
-    margin-left: 16px;
-    margin-right: 16px;
-    border-left: 1px solid #2f3336;
-    border-right: 1px solid #2f3336;
+.wd-search-bar-glass {
+    position: absolute;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
 }
 
-.wd-part-offset {
-    position: relative;
-    margin-left: 16px;
+.wd-overlay-text {
+    position: absolute;
+    bottom: -8px;
+    left: 8px;
 }
 
-.wd-search-bar {
-    color: white;
-    background-color: darkgray;
-    border-radius: 10px;
+.wd-overlay-topic-text {
+    position: absolute;
+    bottom: 48px;
+    left: 12px;
 }
 
-.wd-setting-offset {
-    position: relative;
-    margin-right: 12px;
+.wd-post-summary-item-image {
+    width: 96px;
+    height: 96px
 }
 
-.wd-image-offset {
-    position: relative;
-    margin-right: 16px;
-    border-radius: 10px;
+.wd-who-to-follow-item-icon {
+    width: 48px;
+    height: 48px
 }
 
-.wd-float-left {
-    float: left;
+.wd-bg-light-gray {
+    background-color: #F7F9F8;
 }
 
-.wd-float-right {
-    float: right;
+.wd-border-light-gray {
+    border-color: #F7F9F8;
 }
 
-.wd-float-done {
-    clear: both;
+.wd-who-to-follow-border-radius{
+    border-radius: 15px;
+}
+
+.wd-darker-gray {
+    color: #4A5863;
+}
+
+.wd-link-without-underline {
+    text-decoration: none;
+}
+
+.wd-text-tuiter-blue {
+    color: #179FEB;
+}
+
+.wd-bg-tuiter-blue {
+    background-color: #179FEB;
 }
 
 .wd-foryou-link {
-    color: #1da1f2;
+    color: black;
     font-size: 15px;
-    padding-bottom: 7px;
+    padding-bottom: 12px;
     margin: 16px 16px 16px 0;
     text-decoration: none;
-    border-bottom: solid 4px #1da1f2;
+    border-bottom: solid 4px #179FEB;
 }
 
 .wd-other-link {
@@ -60,31 +77,15 @@
     text-decoration: none;
 }
 
-.wd-padding-bottom {
-    padding-bottom: 10px;
+.wd-flex-container {
+    display: flex;
+    justify-content: space-around;
 }
 
-.wd-trend-topic {
-    color: #6e767d;
-    font-size: 13px;
+.wd-tweet-button {
+    max-width: 200px;
 }
 
-.wd-trend-author {
-    color: white;
-    font-size: 13px;
-}
-
-.wd-trend-title {
-    color: white;
-    font-size: 15px;
-}
-
-.wd-block {
-    border-bottom: 1px solid #2f3336;
-    border-top: 1px solid #2f3336;
-}
-
-.wd-block-top-down-margin {
-    margin-top: 10px;
-    margin-bottom: 10px;
+.wd-bold-text {
+    font-weight: 900;
 }
