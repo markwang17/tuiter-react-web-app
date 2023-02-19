@@ -6,7 +6,7 @@ export default postItems = [
         handle: 'elonmusk',
         time: '23h',
         postText: 'Amazing show about <a href="#" class="text-decoration-none">@Inspiration4x</a> mission!',
-        postImage: 'https://pbs.twimg.com/card_img/1623064957435670540/JYMKhNqH?format=jpg&name=medium',
+        postImage: 'https://pbs.twimg.com/card_img/1625602434620858379/2hgwKfOz?format=jpg&name=medium',
         linkTitle: 'Watch Countdown: Inspiration4 Mission to Space | Netflix Official Site',
         linkBody: 'From training to launch to landing, this all-access docuseries rides along with the Inspiration4 crew on the first all-civilian orbital space mission.',
         link: 'netflix.com',
