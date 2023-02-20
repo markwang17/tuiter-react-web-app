@@ -1,0 +1,49 @@
+[
+  {
+    "_id": 123,
+    "isRetweet": true,
+    "retweetUserName": "Elon Musk",
+    "isReply": false,
+    "sourceTweet": {
+      "userIcon": "https://www.spacex.com/static/images/share.jpg",
+      "userName": "Elon&nbsp;Musk",
+      "handle": "elonmusk",
+      "time": "23h",
+      "postText": "Amazing show about <a href=\"#\" class=\"text-decoration-none\">@Inspiration4x</a> mission!"
+    },
+    "userIcon": "https://www.spacex.com/static/images/share.jpg",
+    "userName": "SpaceX",
+    "handle": "SpaceX",
+    "time": "23h",
+    "postText": "Dennis and Akiko Tito are the first two crewmembers on Starship’s second commercial spaceflight around the Moon → spacex.com/updates",
+    "postImage": "https://pbs.twimg.com/media/Fe3y1f9UYAA2G5S?format=jpg&name=medium",
+    "stats": {
+      "comment": "595",
+      "retweet": "1,168",
+      "like": "11.1k"
+    }
+  }, {
+  "_id": 123,
+  "isRetweet": false,
+  "retweetUserName": "",
+  "isReply": true,
+  "sourceTweet": {
+    "userIcon": "https://www.spacex.com/static/images/share.jpg",
+    "userName": "SpaceX",
+    "handle": "SpaceX",
+    "time": "23h",
+    "postText": "Starlink for RVs now has over 100,000 customers! Access high-speed, low-latency internet on an as-needed basis anywhere Starlink provides active coverage → starlink.com/rv"
+  },
+  "userIcon": "https://seeklogo.com/images/E/elon-musk-logo-0914614CE5-seeklogo.com.jpg",
+  "userName": "Elon Musk",
+  "handle": "elonmusk",
+  "time": "15h",
+  "postText": "We might need a different name, as this is basically just Starlink with roaming capacity, so you can take your terminal anywhere.",
+  "postImage": "https://pbs.twimg.com/media/Fe3y1f9UYAA2G5S?format=jpg&name=medium",
+  "stats": {
+    "comment": "5,346",
+    "retweet": "1,601",
+    "like": "19.2k"
+  }
+}
+]
