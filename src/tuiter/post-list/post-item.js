@@ -22,7 +22,7 @@ const PostItem = (
     }
 ) => {
     return(
-        <li className="d-flex list-group-item">
+        <li className="d-flex list-group-item rounded-0 border-start-0 border-end-0">
             <div className="row">
 
                 <div className="col-1">
