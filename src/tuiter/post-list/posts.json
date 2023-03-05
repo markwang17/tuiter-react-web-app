@@ -15,7 +15,7 @@
     "userName": "SpaceX",
     "handle": "SpaceX",
     "time": "23h",
-    "postText": "Dennis and Akiko Tito are the first two crewmembers on Starship’s second commercial spaceflight around the Moon → spacex.com/updates",
+    "postText": "Dennis and Akiko Tito are the first two crewmembers on Starship’s second commercial spaceflight around the Moon → <a href=\"#\" class=\"text-decoration-none\">spacex.com/updates</a>",
     "postImage": "https://pbs.twimg.com/media/Fe3y1f9UYAA2G5S?format=jpg&name=medium",
     "stats": {
       "comment": "595",
@@ -32,7 +32,7 @@
     "userName": "SpaceX",
     "handle": "SpaceX",
     "time": "23h",
-    "postText": "Starlink for RVs now has over 100,000 customers! Access high-speed, low-latency internet on an as-needed basis anywhere Starlink provides active coverage → starlink.com/rv"
+    "postText": "Starlink for RVs now has over 100,000 customers! Access high-speed, low-latency internet on an as-needed basis anywhere Starlink provides active coverage → <a href=\"#\" class=\"text-decoration-none\">starlink.com/rv</a>"
   },
   "userIcon": "https://seeklogo.com/images/E/elon-musk-logo-0914614CE5-seeklogo.com.jpg",
   "userName": "Elon Musk",

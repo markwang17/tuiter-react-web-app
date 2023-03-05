@@ -42,7 +42,8 @@ const PostItem = (
                             <a href="#" className="ms-auto me-1"><i
                                 className="bi bi-three-dots text-secondary"></i></a>
                         </div>
-                        <div className="mb-2">{post.postText}</div>
+                        {/*<div className="mb-2">{post.postText}</div>*/}
+                        <div className="mb-2" dangerouslySetInnerHTML={ { __html: post.postText } }></div>
 
                         <div className="border rounded-4 mb-2">
                             {!post.isReply && <img src={post.postImage} className="img-fluid rounded-4"/>}
@@ -54,7 +55,8 @@ const PostItem = (
                                         <span className="fw-bold ms-1">{post.sourceTweet.userName}</span> <i
                                         className="bi bi-check-circle-fill text-primary"></i><span
                                         className="text-secondary">&nbsp;@{post.sourceTweet.handle} · {post.sourceTweet.time}</span>
-                                        <div className="mb-2 mt-1">{post.sourceTweet.postText}</div>
+                                        {/*<div className="mb-2 mt-1">{post.sourceTweet.postText}</div>*/}
+                                        <div className="mb-2 mt-1" dangerouslySetInnerHTML={ { __html: post.sourceTweet.postText } }></div>
                                     </div>
                                     </div>
                                 </div>
